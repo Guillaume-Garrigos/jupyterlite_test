@@ -3,6 +3,6 @@
         "contents": ["content"]
     },
     "XeusPythonEnv": {
-        "packages": ["numpy", "matplotlib", "ipyleaflet", "addict"]
+        "packages": ["numpy", "matplotlib", "ipympl", "autograd", "addict"]
     }
 }
